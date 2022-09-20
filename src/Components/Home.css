@@ -1,0 +1,17 @@
+.second {
+    background-color: rgba(5, 44, 68, 0.749);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.h1 {
+    color: aliceblue;
+    margin-left: 20px;
+}
+.add {
+    margin-left: 500px;
+}
+.stud {
+    margin-left: 30px;
+    color: aliceblue;
+    font-weight: 600;
+}
